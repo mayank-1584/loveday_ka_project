@@ -1,0 +1,14 @@
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+torch
+jellyfish
+python-Levenshtein
+rapidfuzz
+scikit-learn
+xgboost
+tqdm
+pyyaml
+ipykernel
+matplotlib
