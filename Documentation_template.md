@@ -1,7 +1,7 @@
 # ML Challenge 2026: Business Entity Resolution Solution Template
 
-**Team Name:** [Your Team Name]  
-**Team Members:** [List all team members]  
+**Team Name:** [deadlock]  
+**Team Members:** [Mayank sharma,Tanish , Chehak]  
 **Submission Date:** [Date]
 
 ---
